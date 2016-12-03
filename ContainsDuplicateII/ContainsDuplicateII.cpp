@@ -7,7 +7,7 @@ using std::cout;
 using std::endl;
 using std::vector;
 using std::set;
-//³¬Ê±
+//è¶…æ—¶
 /*bool containsNearbyDuplicate(vector<int>& nums, int k) {
 	vector<int>::size_type index;
 	vector<int>::size_type len = nums.size();
