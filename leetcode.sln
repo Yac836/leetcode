@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MajorityElement", "Majority
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RotateArray", "RotateArray\RotateArray.vcxproj", "{1E6EF37E-536A-45D3-AB98-44CD414AF8D3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.vcxproj", "{1AF88704-08F3-4704-B944-D1C04C75E881}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{1E6EF37E-536A-45D3-AB98-44CD414AF8D3}.Release|x64.Build.0 = Release|x64
 		{1E6EF37E-536A-45D3-AB98-44CD414AF8D3}.Release|x86.ActiveCfg = Release|Win32
 		{1E6EF37E-536A-45D3-AB98-44CD414AF8D3}.Release|x86.Build.0 = Release|Win32
+		{1AF88704-08F3-4704-B944-D1C04C75E881}.Debug|x64.ActiveCfg = Debug|x64
+		{1AF88704-08F3-4704-B944-D1C04C75E881}.Debug|x64.Build.0 = Debug|x64
+		{1AF88704-08F3-4704-B944-D1C04C75E881}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AF88704-08F3-4704-B944-D1C04C75E881}.Debug|x86.Build.0 = Debug|Win32
+		{1AF88704-08F3-4704-B944-D1C04C75E881}.Release|x64.ActiveCfg = Release|x64
+		{1AF88704-08F3-4704-B944-D1C04C75E881}.Release|x64.Build.0 = Release|x64
+		{1AF88704-08F3-4704-B944-D1C04C75E881}.Release|x86.ActiveCfg = Release|Win32
+		{1AF88704-08F3-4704-B944-D1C04C75E881}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
