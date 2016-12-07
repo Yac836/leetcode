@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoveZeroes", "MoveZeroes\Mo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumPathSum", "MinimumPathSum\MinimumPathSum.vcxproj", "{54D6A9EE-FEE1-4264-AF2B-5E55F8253FCE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoSumII", "TwoSumII\TwoSumII.vcxproj", "{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{54D6A9EE-FEE1-4264-AF2B-5E55F8253FCE}.Release|x64.Build.0 = Release|x64
 		{54D6A9EE-FEE1-4264-AF2B-5E55F8253FCE}.Release|x86.ActiveCfg = Release|Win32
 		{54D6A9EE-FEE1-4264-AF2B-5E55F8253FCE}.Release|x86.Build.0 = Release|Win32
+		{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}.Debug|x64.ActiveCfg = Debug|x64
+		{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}.Debug|x64.Build.0 = Debug|x64
+		{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}.Debug|x86.Build.0 = Debug|Win32
+		{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}.Release|x64.ActiveCfg = Release|x64
+		{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}.Release|x64.Build.0 = Release|x64
+		{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}.Release|x86.ActiveCfg = Release|Win32
+		{8928CCF8-B27B-4E92-8A4D-A1920731E8A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
