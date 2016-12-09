@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoSumII", "TwoSumII\TwoSum
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindPeakElement", "FindPeakElement\FindPeakElement.vcxproj", "{9DFB3908-94BD-4E41-BE9F-7B2EC2CF48D4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumSizeSubarraySum", "MinimumSizeSubarraySum\MinimumSizeSubarraySum.vcxproj", "{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{9DFB3908-94BD-4E41-BE9F-7B2EC2CF48D4}.Release|x64.Build.0 = Release|x64
 		{9DFB3908-94BD-4E41-BE9F-7B2EC2CF48D4}.Release|x86.ActiveCfg = Release|Win32
 		{9DFB3908-94BD-4E41-BE9F-7B2EC2CF48D4}.Release|x86.Build.0 = Release|Win32
+		{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}.Debug|x64.ActiveCfg = Debug|x64
+		{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}.Debug|x64.Build.0 = Debug|x64
+		{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}.Debug|x86.Build.0 = Debug|Win32
+		{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}.Release|x64.ActiveCfg = Release|x64
+		{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}.Release|x64.Build.0 = Release|x64
+		{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}.Release|x86.ActiveCfg = Release|Win32
+		{40749B91-4BC7-4DD9-880D-B9BBDCF106AF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

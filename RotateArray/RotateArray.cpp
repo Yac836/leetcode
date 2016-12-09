@@ -25,7 +25,7 @@ void rotate2(vector<int>& nums, int k) {
 }
 int main() {
 	vector<int> a = { 1,2,3};
-	//7654 321 4567 123
+	
 	
 	rotate2(a, 5);
 
