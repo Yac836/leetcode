@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumSizeSubarraySum", "M
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindMinimuminRotatedSortedArray", "FindMinimuminRotatedSortedArray\FindMinimuminRotatedSortedArray.vcxproj", "{A3E7317C-82D2-4B00-ADC3-69AF06E89D5D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumProductSubarray", "MaximumProductSubarray\MaximumProductSubarray.vcxproj", "{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{A3E7317C-82D2-4B00-ADC3-69AF06E89D5D}.Release|x64.Build.0 = Release|x64
 		{A3E7317C-82D2-4B00-ADC3-69AF06E89D5D}.Release|x86.ActiveCfg = Release|Win32
 		{A3E7317C-82D2-4B00-ADC3-69AF06E89D5D}.Release|x86.Build.0 = Release|Win32
+		{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}.Debug|x64.ActiveCfg = Debug|x64
+		{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}.Debug|x64.Build.0 = Debug|x64
+		{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}.Debug|x86.Build.0 = Debug|Win32
+		{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}.Release|x64.ActiveCfg = Release|x64
+		{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}.Release|x64.Build.0 = Release|x64
+		{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}.Release|x86.ActiveCfg = Release|Win32
+		{E7A65DA1-C3DE-42D7-A8F0-8B18FE537745}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
