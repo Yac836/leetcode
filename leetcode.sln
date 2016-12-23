@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntegertoRoman", "Integerto
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LengthofLastWord", "LengthofLastWord\LengthofLastWord.vcxproj", "{4DD01E19-7E93-4EE7-A3AF-A40739A90A31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.vcxproj", "{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{4DD01E19-7E93-4EE7-A3AF-A40739A90A31}.Release|x64.Build.0 = Release|x64
 		{4DD01E19-7E93-4EE7-A3AF-A40739A90A31}.Release|x86.ActiveCfg = Release|Win32
 		{4DD01E19-7E93-4EE7-A3AF-A40739A90A31}.Release|x86.Build.0 = Release|Win32
+		{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}.Debug|x64.ActiveCfg = Debug|x64
+		{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}.Debug|x64.Build.0 = Debug|x64
+		{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}.Debug|x86.Build.0 = Debug|Win32
+		{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}.Release|x64.ActiveCfg = Release|x64
+		{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}.Release|x64.Build.0 = Release|x64
+		{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}.Release|x86.ActiveCfg = Release|Win32
+		{0FD3FFE5-7801-4B01-B92C-F4FF1D5DC2C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
