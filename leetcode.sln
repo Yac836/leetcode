@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValidPalindrome", "ValidPal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoSum", "TwoSum\TwoSum.vcxproj", "{D8758385-9668-4557-9D47-7AF29A2B5854}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZigZagConversion", "ZigZagConversion\ZigZagConversion.vcxproj", "{EC239388-B4FD-4347-AF59-49191BDFDF3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{D8758385-9668-4557-9D47-7AF29A2B5854}.Release|x64.Build.0 = Release|x64
 		{D8758385-9668-4557-9D47-7AF29A2B5854}.Release|x86.ActiveCfg = Release|Win32
 		{D8758385-9668-4557-9D47-7AF29A2B5854}.Release|x86.Build.0 = Release|Win32
+		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Debug|x64.ActiveCfg = Debug|x64
+		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Debug|x64.Build.0 = Debug|x64
+		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Debug|x86.Build.0 = Debug|Win32
+		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Release|x64.ActiveCfg = Release|x64
+		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Release|x64.Build.0 = Release|x64
+		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Release|x86.ActiveCfg = Release|Win32
+		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
