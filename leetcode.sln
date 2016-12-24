@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoSum", "TwoSum\TwoSum.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZigZagConversion", "ZigZagConversion\ZigZagConversion.vcxproj", "{EC239388-B4FD-4347-AF59-49191BDFDF3A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseInteger", "ReverseInteger\ReverseInteger.vcxproj", "{AB58DBEA-E791-4C16-A742-72A25188D7D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Release|x64.Build.0 = Release|x64
 		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Release|x86.ActiveCfg = Release|Win32
 		{EC239388-B4FD-4347-AF59-49191BDFDF3A}.Release|x86.Build.0 = Release|Win32
+		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Debug|x64.ActiveCfg = Debug|x64
+		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Debug|x64.Build.0 = Debug|x64
+		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Debug|x86.Build.0 = Debug|Win32
+		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Release|x64.ActiveCfg = Release|x64
+		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Release|x64.Build.0 = Release|x64
+		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Release|x86.ActiveCfg = Release|Win32
+		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
