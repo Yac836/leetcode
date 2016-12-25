@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseInteger", "ReverseIn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringtoInteger", "StringtoInteger\StringtoInteger.vcxproj", "{5C01960E-09C4-4409-A451-58BD54E8903D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.vcxproj", "{DD8EEBCD-45D1-497E-A1AB-89503922D07E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{5C01960E-09C4-4409-A451-58BD54E8903D}.Release|x64.Build.0 = Release|x64
 		{5C01960E-09C4-4409-A451-58BD54E8903D}.Release|x86.ActiveCfg = Release|Win32
 		{5C01960E-09C4-4409-A451-58BD54E8903D}.Release|x86.Build.0 = Release|Win32
+		{DD8EEBCD-45D1-497E-A1AB-89503922D07E}.Debug|x64.ActiveCfg = Debug|x64
+		{DD8EEBCD-45D1-497E-A1AB-89503922D07E}.Debug|x64.Build.0 = Debug|x64
+		{DD8EEBCD-45D1-497E-A1AB-89503922D07E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD8EEBCD-45D1-497E-A1AB-89503922D07E}.Debug|x86.Build.0 = Debug|Win32
+		{DD8EEBCD-45D1-497E-A1AB-89503922D07E}.Release|x64.ActiveCfg = Release|x64
+		{DD8EEBCD-45D1-497E-A1AB-89503922D07E}.Release|x64.Build.0 = Release|x64
+		{DD8EEBCD-45D1-497E-A1AB-89503922D07E}.Release|x86.ActiveCfg = Release|Win32
+		{DD8EEBCD-45D1-497E-A1AB-89503922D07E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
