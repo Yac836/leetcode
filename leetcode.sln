@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZigZagConversion", "ZigZagC
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseInteger", "ReverseInteger\ReverseInteger.vcxproj", "{AB58DBEA-E791-4C16-A742-72A25188D7D1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringtoInteger", "StringtoInteger\StringtoInteger.vcxproj", "{5C01960E-09C4-4409-A451-58BD54E8903D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Release|x64.Build.0 = Release|x64
 		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Release|x86.ActiveCfg = Release|Win32
 		{AB58DBEA-E791-4C16-A742-72A25188D7D1}.Release|x86.Build.0 = Release|Win32
+		{5C01960E-09C4-4409-A451-58BD54E8903D}.Debug|x64.ActiveCfg = Debug|x64
+		{5C01960E-09C4-4409-A451-58BD54E8903D}.Debug|x64.Build.0 = Debug|x64
+		{5C01960E-09C4-4409-A451-58BD54E8903D}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C01960E-09C4-4409-A451-58BD54E8903D}.Debug|x86.Build.0 = Debug|Win32
+		{5C01960E-09C4-4409-A451-58BD54E8903D}.Release|x64.ActiveCfg = Release|x64
+		{5C01960E-09C4-4409-A451-58BD54E8903D}.Release|x64.Build.0 = Release|x64
+		{5C01960E-09C4-4409-A451-58BD54E8903D}.Release|x86.ActiveCfg = Release|Win32
+		{5C01960E-09C4-4409-A451-58BD54E8903D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
