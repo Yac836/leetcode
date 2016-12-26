@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeTwoSortedLists", "Merg
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoveElement", "RemoveElement\RemoveElement.vcxproj", "{E7A56F24-7CE0-40DE-9EF6-6C8673F7E194}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoveDuplicatesfromSortedArray", "RemoveDuplicatesfromSortedArray\RemoveDuplicatesfromSortedArray.vcxproj", "{8329A4E0-1CD5-4718-B462-7523B007E9CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{E7A56F24-7CE0-40DE-9EF6-6C8673F7E194}.Release|x64.Build.0 = Release|x64
 		{E7A56F24-7CE0-40DE-9EF6-6C8673F7E194}.Release|x86.ActiveCfg = Release|Win32
 		{E7A56F24-7CE0-40DE-9EF6-6C8673F7E194}.Release|x86.Build.0 = Release|Win32
+		{8329A4E0-1CD5-4718-B462-7523B007E9CC}.Debug|x64.ActiveCfg = Debug|x64
+		{8329A4E0-1CD5-4718-B462-7523B007E9CC}.Debug|x64.Build.0 = Debug|x64
+		{8329A4E0-1CD5-4718-B462-7523B007E9CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{8329A4E0-1CD5-4718-B462-7523B007E9CC}.Debug|x86.Build.0 = Debug|Win32
+		{8329A4E0-1CD5-4718-B462-7523B007E9CC}.Release|x64.ActiveCfg = Release|x64
+		{8329A4E0-1CD5-4718-B462-7523B007E9CC}.Release|x64.Build.0 = Release|x64
+		{8329A4E0-1CD5-4718-B462-7523B007E9CC}.Release|x86.ActiveCfg = Release|Win32
+		{8329A4E0-1CD5-4718-B462-7523B007E9CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
