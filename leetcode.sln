@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwapNodesinPairs", "SwapNodesinPairs\SwapNodesinPairs.vcxproj", "{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseVowelsofaString", "ReverseVowelsofaString\ReverseVowelsofaString.vcxproj", "{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}.Debug|x64.ActiveCfg = Debug|x64
-		{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}.Debug|x64.Build.0 = Debug|x64
-		{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}.Debug|x86.ActiveCfg = Debug|Win32
-		{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}.Debug|x86.Build.0 = Debug|Win32
-		{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}.Release|x64.ActiveCfg = Release|x64
-		{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}.Release|x64.Build.0 = Release|x64
-		{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}.Release|x86.ActiveCfg = Release|Win32
-		{4AD9531C-36CF-48E3-B121-D9C602ADD7BA}.Release|x86.Build.0 = Release|Win32
+		{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}.Debug|x64.ActiveCfg = Debug|x64
+		{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}.Debug|x64.Build.0 = Debug|x64
+		{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}.Debug|x86.Build.0 = Debug|Win32
+		{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}.Release|x64.ActiveCfg = Release|x64
+		{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}.Release|x64.Build.0 = Release|x64
+		{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}.Release|x86.ActiveCfg = Release|Win32
+		{2519B6D9-9A18-4C9D-91F6-E16D3F6E1EAB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
