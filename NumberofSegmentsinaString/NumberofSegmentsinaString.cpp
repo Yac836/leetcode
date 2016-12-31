@@ -16,7 +16,7 @@ int countSegments(string s) {
 
 int main() {
 	string test = "hello      zhao hong yan";
-cout <<	countSegments(test);
-	
+	cout << countSegments(test);
+
 
 }
