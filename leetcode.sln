@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddBinary", "AddBinary\AddB
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz", "FizzBuzz\FizzBuzz.vcxproj", "{F45C7476-F692-401B-AD4E-51ED1A20C4FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IslandPerimeter", "IslandPerimeter\IslandPerimeter.vcxproj", "{05D922C1-431A-4030-A65F-1E3C4FB08ABA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{F45C7476-F692-401B-AD4E-51ED1A20C4FC}.Release|x64.Build.0 = Release|x64
 		{F45C7476-F692-401B-AD4E-51ED1A20C4FC}.Release|x86.ActiveCfg = Release|Win32
 		{F45C7476-F692-401B-AD4E-51ED1A20C4FC}.Release|x86.Build.0 = Release|Win32
+		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Debug|x64.ActiveCfg = Debug|x64
+		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Debug|x64.Build.0 = Debug|x64
+		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Debug|x86.ActiveCfg = Debug|Win32
+		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Debug|x86.Build.0 = Debug|Win32
+		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Release|x64.ActiveCfg = Release|x64
+		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Release|x64.Build.0 = Release|x64
+		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Release|x86.ActiveCfg = Release|Win32
+		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
