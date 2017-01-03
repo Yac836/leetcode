@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IslandPerimeter", "IslandPerimeter\IslandPerimeter.vcxproj", "{05D922C1-431A-4030-A65F-1E3C4FB08ABA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NimGame", "NimGame\NimGame.vcxproj", "{5981F32B-20E0-4F7A-95E9-E486356766F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Release|x64.Build.0 = Release|x64
 		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Release|x86.ActiveCfg = Release|Win32
 		{05D922C1-431A-4030-A65F-1E3C4FB08ABA}.Release|x86.Build.0 = Release|Win32
+		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Debug|x64.ActiveCfg = Debug|x64
+		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Debug|x64.Build.0 = Debug|x64
+		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Debug|x86.Build.0 = Debug|Win32
+		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Release|x64.ActiveCfg = Release|x64
+		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Release|x64.Build.0 = Release|x64
+		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Release|x86.ActiveCfg = Release|Win32
+		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
