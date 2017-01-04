@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IslandPerimeter", "IslandPe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NimGame", "NimGame\NimGame.vcxproj", "{5981F32B-20E0-4F7A-95E9-E486356766F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingleNumber", "SingleNumber\SingleNumber.vcxproj", "{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Release|x64.Build.0 = Release|x64
 		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Release|x86.ActiveCfg = Release|Win32
 		{5981F32B-20E0-4F7A-95E9-E486356766F1}.Release|x86.Build.0 = Release|Win32
+		{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}.Debug|x64.ActiveCfg = Debug|x64
+		{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}.Debug|x64.Build.0 = Debug|x64
+		{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}.Debug|x86.Build.0 = Debug|Win32
+		{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}.Release|x64.ActiveCfg = Release|x64
+		{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}.Release|x64.Build.0 = Release|x64
+		{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}.Release|x86.ActiveCfg = Release|Win32
+		{3661F6A4-45E9-4E6A-BFEC-CD53A13EF0CD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
