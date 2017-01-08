@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddDigits", "AddDigits\AddD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssignCookies", "AssignCookies\AssignCookies.vcxproj", "{0D23E721-6CE8-419D-9424-9AD668425E26}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumMovestoEqualArrayElements", "MinimumMovestoEqualArrayElements\MinimumMovestoEqualArrayElements.vcxproj", "{9224D1CA-E19C-4757-9760-BFD6780B8A8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{0D23E721-6CE8-419D-9424-9AD668425E26}.Release|x64.Build.0 = Release|x64
 		{0D23E721-6CE8-419D-9424-9AD668425E26}.Release|x86.ActiveCfg = Release|Win32
 		{0D23E721-6CE8-419D-9424-9AD668425E26}.Release|x86.Build.0 = Release|Win32
+		{9224D1CA-E19C-4757-9760-BFD6780B8A8B}.Debug|x64.ActiveCfg = Debug|x64
+		{9224D1CA-E19C-4757-9760-BFD6780B8A8B}.Debug|x64.Build.0 = Debug|x64
+		{9224D1CA-E19C-4757-9760-BFD6780B8A8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{9224D1CA-E19C-4757-9760-BFD6780B8A8B}.Debug|x86.Build.0 = Debug|Win32
+		{9224D1CA-E19C-4757-9760-BFD6780B8A8B}.Release|x64.ActiveCfg = Release|x64
+		{9224D1CA-E19C-4757-9760-BFD6780B8A8B}.Release|x64.Build.0 = Release|x64
+		{9224D1CA-E19C-4757-9760-BFD6780B8A8B}.Release|x86.ActiveCfg = Release|Win32
+		{9224D1CA-E19C-4757-9760-BFD6780B8A8B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
