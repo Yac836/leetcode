@@ -8,4 +8,5 @@
 #endif //LEETCODE_COMMONHEADER_H
 
 #include "stdc++.h"
+#include "utils.h"
 using  namespace std;
