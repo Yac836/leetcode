@@ -10,7 +10,6 @@ int climbStairs(int n) {
         int t = b;
         b = a + b;
         a = t;
-
     }
     return b;
 }
