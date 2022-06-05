@@ -230,4 +230,18 @@ bool stringToBool(string input) {
 string boolToString(bool input) {
     return input ? "True" : "False";
 }
-
+int quickpow(int n, int m) {
+    if (m == 0) {
+        return 1;
+    }
+    int res = 1;
+    while (m != 0) {
+        if (m & 1) {
+            res = res * n;
+        }
+        m >>= 1;
+        n *= n;
+//        cout << m << " " << n << " " << res << endl;
+    }
+    return res;
+}

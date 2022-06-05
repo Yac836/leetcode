@@ -24,3 +24,4 @@ TreeNode *stringToTreeNode(string input);
 string treeNodeToString(TreeNode *root);
 bool stringToBool(string input);
 string boolToString(bool input);
+int quickpow(int n, int m);
