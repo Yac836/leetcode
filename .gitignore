@@ -248,3 +248,4 @@ ModelManifest.xml
 main.cpp
 CMakeLists.txt
 a.out
+.vscode
