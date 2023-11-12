@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+#include <iostream>
+using namespace std;
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
@@ -13,3 +15,6 @@ public:
 };
 // @lc code=end
 
+int main {
+    cout << 123 << end;
+}
